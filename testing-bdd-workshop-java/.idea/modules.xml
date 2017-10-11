@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../tobania-bdd-workshop-java/testing-bdd-workshop-java/testing-bdd-workshop-java.iml" filepath="$PROJECT_DIR$/../tobania-bdd-workshop-java/testing-bdd-workshop-java/testing-bdd-workshop-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tobania-bdd-workshop-java/testing-bdd-workshop-java-parent.iml" filepath="$PROJECT_DIR$/../tobania-bdd-workshop-java/testing-bdd-workshop-java-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tobania-bdd-workshop-java/testing-bdd-workshop-java-webdriver/testing-bdd-workshop-java-webdriver.iml" filepath="$PROJECT_DIR$/../tobania-bdd-workshop-java/testing-bdd-workshop-java-webdriver/testing-bdd-workshop-java-webdriver.iml" />
+    </modules>
+  </component>
+</project>

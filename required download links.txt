@@ -1,0 +1,5 @@
+Gherkin
+https://plugins.jetbrains.com/pluginManager/?action=download&id=gherkin&build=IC-172.4343.14&uuid=594fe857-4c6f-417b-a8c0-1424b80b3e71
+
+cucumber for java
+https://plugins.jetbrains.com/pluginManager/?action=download&id=cucumber-java&build=IC-172.4343.14&uuid=594fe857-4c6f-417b-a8c0-1424b80b3e71
